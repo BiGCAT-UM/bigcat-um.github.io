@@ -1,2 +1,2 @@
 # bigcat-um.github.io
-Repository to hold the central sitemap.zml
+Repository to hold the central sitemap.xml
